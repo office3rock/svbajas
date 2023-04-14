@@ -1,5 +1,5 @@
 {
-  "baseUrl": "svbajas.ussl.co.il",
+  "baseUrl": "reshet.ussl.app/svbajas",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,

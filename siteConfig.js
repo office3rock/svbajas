@@ -18,26 +18,26 @@ module.exports = {
   subscribeWidget: {
     visible: false,
     title: "svbajas.com",
-    helpText: "הישארו מעודכנים",
-    successMessage: "תודה ההודעה נשלחה בהצלחה",
+    helpText: "Keep following",
+    successMessage: "Thank you The message was sent successfully",
   },
   header: {
     navigation: [
       {
-        label: "דף הבית",
+        label: "Homepage",
         url: "https://svbajas.com/",
       },
       {
-        label: "יצירת קשר",
+        label: "Contact",
         url: "https://svbajas.com/contact",
       },
     ],
   },
   footer: {
-    copyright: "כל הזכויות שמורות ",
+    copyright: "All rights reserved ",
     navigation: [
       {
-        label: "דף הבית",
+        label: "Homepage",
         url: "https://svbajas.com/",
       },
       {
@@ -46,7 +46,7 @@ module.exports = {
       },
       
       {
-        label: "יצירת קשר",
+        label: "Contact",
         url: "https://svbajas.com/contact",
       },
      
